@@ -1,5 +1,9 @@
 # 🌱 EcoSphere
 
+## 요구사항 
+
+https://github.com/Poly-Etilen/final-project
+
 > AI 기반 스마트 식물 생육 환경 관리 플랫폼
 
 EcoSphere는 IoT 센서와 AI(LLM), 시계열 데이터 분석 기술을 활용하여 식물의 생육 환경을 실시간으로 관리하고, AI가 최적의 환경을 추천하는 스마트 식물 관리 플랫폼입니다.
