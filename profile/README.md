@@ -107,3 +107,9 @@ docs/
 ├── 06_Infra
 └── 07_Frontend
 ```
+
+---
+
+# 아키텍처 구조도
+<img width="1232" height="716" alt="image" src="https://github.com/user-attachments/assets/d1d0bf63-39a7-4f2d-ba55-0a840131e573" />
+
