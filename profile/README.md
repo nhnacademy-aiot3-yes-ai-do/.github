@@ -111,5 +111,6 @@ docs/
 ---
 
 # 아키텍처 구조도
-<img width="1232" height="716" alt="image" src="https://github.com/user-attachments/assets/d1d0bf63-39a7-4f2d-ba55-0a840131e573" />
+<img width="1453" height="918" alt="image" src="https://github.com/user-attachments/assets/9cb0c616-3d8a-4268-9842-df9bab4fb50a" />
+
 
