@@ -1,4 +1,4 @@
-# 🍄 EcoSphere
+# 🍄 MushMush
 
 ## 저장소
 https://github.com/Poly-Etilen/final-project
