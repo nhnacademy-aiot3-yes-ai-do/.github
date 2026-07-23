@@ -111,3 +111,8 @@ docs/
 # 아키텍처 구조도
 <img width="1378" height="1256" alt="image" src="https://github.com/user-attachments/assets/f7eb4255-432c-4cae-9e09-3fb504b6dff6" />
 
+---
+# ERD
+<img width="4949" height="3282" alt="yes-ai-do" src="https://github.com/user-attachments/assets/dc521312-bf94-4c56-aa9e-9c9fb296f708" />
+
+
