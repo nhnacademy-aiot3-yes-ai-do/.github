@@ -113,6 +113,7 @@ docs/
 
 ---
 # ERD
-<img width="4949" height="3282" alt="yes-ai-do" src="https://github.com/user-attachments/assets/dc521312-bf94-4c56-aa9e-9c9fb296f708" />
+<img width="4486" height="3752" alt="yes-ai-do-3" src="https://github.com/user-attachments/assets/a49db4d2-0a66-477d-85e2-fd3d37d1c691" />
+
 
 
