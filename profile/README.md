@@ -109,7 +109,8 @@ docs/
 ---
 
 # 아키텍처 구조도
-<img width="1378" height="1256" alt="image" src="https://github.com/user-attachments/assets/f7eb4255-432c-4cae-9e09-3fb504b6dff6" />
+<img width="1452" height="1066" alt="image" src="https://github.com/user-attachments/assets/ef4d4f04-5365-4958-b58a-2e78d37c4dcd" />
+
 
 ---
 # ERD
