@@ -1,6 +1,7 @@
 
 Readme · MD
-<div align="center"> <img src="https://placehold.co/150x150?text=Logo" width="150" height="150" alt="Yesaido Logo"/> <h1>🍄 Yesaido</h1> <p><strong>[한 줄 소개 - 예: IoT 센서 기반 버섯 재배 환경을 자동 제어하고, AI가 생육 상태를 분석해주는 스마트팜 관리 플랫폼입니다.] </strong></p> <p>📅 <b>개발 기간</b> : 2025.07.02 ~ 2025.09.22</p> </div>
+<div align="center"> <img width="396" height="396" alt="image" src="https://github.com/user-attachments/assets/e6ec0b58-cf83-493e-bd6c-f28dac80df9b" />
+ <h1>🍄 Yesaido</h1> <p><strong>[한 줄 소개 - 예: IoT 센서 기반 버섯 재배 환경을 자동 제어하고, AI가 생육 상태를 분석해주는 스마트팜 관리 플랫폼입니다.] </strong></p> <p>📅 <b>개발 기간</b> : 2025.07.02 ~ 2025.09.22</p> </div>
 📖 도메인
 <a href="https://yes-nhn.site">https://yes-nhn.site</a>
 
@@ -80,8 +81,11 @@ Readme · MD
     </tr> 
   </tbody> 
 </table>
-💻 Tech Stacks
-구분	기술 스택 (Tech Stack)
+
+---
+
+## 💻 Tech Stacks
+
 | 구분 | 기술 스택 (Tech Stack) |
 | :--- | :--- |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white) |
@@ -89,6 +93,7 @@ Readme · MD
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C9284D?style=flat&logo=minio&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) <br> ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) |
 
+---
 
 🏗️ System Architecture
 <p align="center"> <img src="https://placehold.co/1000x500?text=System+Architecture+Diagram" width="100%" alt="System Architecture"/> </p> <blockquote> <b>MSA(Microservices Architecture)</b> 기반으로 서비스별 독립 배포와 확장이 가능하도록 구성했습니다. (아래 설명은 초안이며, 확정 후 수정 필요) </blockquote> <details open> <summary><b>1. 트래픽 제어 및 보안 (Traffic & Security)</b></summary> <ul> <li><b>Cloudflare</b>: 도메인 연결 및 <b>HTTPS 보안 통신</b>을 담당합니다.</li> <li><b>API Gateway</b>: 모든 요청의 단일 진입점으로 <b>JWT 검증</b> 및 라우팅, 사용자 식별 헤더(X-User-Id/X-User-Role) 주입을 수행합니다.</li> </ul> </details> <details> <summary><b>2. 핵심 인프라 및 관리 (Infrastructure Management)</b></summary> <ul> <li><b>Spring Cloud Config Server</b>: 중앙 저장소에서 환경 설정 정보를 통합 관리하고 배포합니다.</li> <li><b>Netflix Eureka</b>: 서비스 Discovery를 통해 마이크로서비스들의 위치를 동적으로 관리합니다.</li> <li><b>Kubernetes</b>: 컨테이너 오케스트레이션 및 서비스 디스커버리(Spring Cloud Kubernetes)를 병행 지원합니다.</li> </ul> </details> <details> <summary><b>3. 마이크로서비스 레이어 (Microservices Layer)</b></summary> <table> <tr><th>Service</th><th>Description (초안)</th></tr> <tr><td><b>Front Server</b></td><td>Thymeleaf 기반 UI, Gateway를 통한 백엔드 통신 수행</td></tr> <tr><td><b>Auth(User) Server</b></td><td>회원 가입/로그인/인증, 문의(Inquiry) 관리</td></tr> <tr><td><b>Cultivation Server</b></td><td>재배지(Cultivation) 생성/관리, 멤버 및 역할(Owner/Manager/Member) 관리, 센서·환경설정, 수확 기록</td></tr> <tr><td><b>Rule Engine Server</b></td><td>센서 값 기반 임계값 판단 및 자동 제어 로직 수행</td></tr> <tr><td><b>AI Server</b></td><td>생육 분석, 일일 피드백, 인사이트, RAG 기반 챗봇(웹/텔레그램/디스코드)</td></tr> <tr><td><b>Embedding Server</b></td><td>버섯 가이드 등 참조 데이터 임베딩 처리</td></tr> <tr><td><b>Notification Server</b></td><td>이벤트 기반 알림 발행 및 구독 채널 관리</td></tr> <tr><td><b>Data Generator</b></td><td>센서 데이터 시뮬레이션/생성</td></tr> </table> </details> <details> <summary><b>4. 데이터 저장 및 메시징 (Persistence & Messaging)</b></summary> <ul> <li><b>PostgreSQL</b>: 서비스별 스키마로 분리된 영속성 데이터 저장소입니다.</li> <li><b>Redis</b>: 캐싱 및 세션/토큰 관리를 지원합니다.</li> <li><b>InfluxDB</b>: 센서 시계열 데이터 저장 및 집계에 사용합니다.</li> <li><b>RabbitMQ</b>: 서비스 간 결합도를 낮추는 <b>비동기 이벤트 메시징</b> 역할을 합니다.</li> <li><b>MinIO</b>: 재배 사진 등 파일 오브젝트 스토리지로 사용합니다.</li> <li><b>pgvector</b>: AI 챗봇/인사이트를 위한 벡터 검색 저장소입니다.</li> </ul> </details>
