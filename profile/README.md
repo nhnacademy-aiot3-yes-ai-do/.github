@@ -43,7 +43,7 @@ Readme · MD
         <br /><sub><b>AI</b></sub> 
       </td> 
       <td align="center"> 
-        <a href="https://github.com/JaeUng"> 
+        <a href="https://github.com/rnrn428"> 
           <img src="https://github.com/JaeUng.png" width="100" height="100" alt="JaeUng"/> 
           <br /><b>이재웅</b> 
         </a> 
