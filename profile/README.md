@@ -92,16 +92,18 @@ Readme · MD
 
 | 구분 | 기술 스택 (Tech Stack) |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white) |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) <br> ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white) ![Scheduled Tasks](https://img.shields.io/badge/Scheduled_Tasks-6DB33F?style=flat&logo=spring&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)|
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C9284D?style=flat&logo=minio&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) <br> ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)|
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) <br> ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white) ![Scheduled Tasks](https://img.shields.io/badge/Scheduled_Tasks-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Ai](https://img.shields.io/badge/Spring%20Ai-6DB33F?style=flat&logo=spring&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat&logo=auth0&logoColor=white)|
+| **Database** | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/Influxdb-22ADF6?style=flat&logo=influxdb&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)| 
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C9284D?style=flat&logo=minio&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white) <br> ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-126ED3?style=flat&logo=sonarqubeserver&logoColor=white) ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF570A?style=flat&logo=coderabbit&logoColor=white)|
+| **Collaboration** | ![Git](https://img.shields.io/badge/Git-F03C2E?style=flat&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white) ![Github](https://img.shields.io/badge/Github%20Action-181717?style=flat&logo=github&logoColor=white) |
+| **AI** | ![Google Genimi](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) |
 
 ---
 
 🏗️ System Architecture
 <p align="center">
-  <img width="1122" height="762" alt="image" src="https://github.com/user-attachments/assets/54704b73-d2e3-4a2e-b1ed-9a60a411e3dc" />
+  <img width="1280" height="485" alt="image" src="https://github.com/user-attachments/assets/17ae56bb-7dc7-44d4-b423-1a347899c7f7" />
 </p>
 
 
@@ -157,7 +159,7 @@ Readme · MD
 </details>
 🚀 CI/CD Pipeline
 <p align="center">
-  <img src="https://placehold.co/1000x400?text=CI%2FCD+Pipeline+Diagram" width="100%" alt="CI/CD Pipeline"/>
+  <img width="1996" height="1041" alt="image" src="https://github.com/user-attachments/assets/6b987935-fc66-4a91-9807-4a4fc876db34" />
 </p>
 
 
