@@ -10,7 +10,7 @@ Readme · MD
 <a href="https://yes-nhn.site">https://yes-nhn.site</a>
 
 📋 API 명세서
-<a href="https://your-domain.example.com/swagger-ui.html">https://your-domain.example.com/swagger-ui.html</a> (임시, 확정 후 수정)
+<a href="https://api.yes-nhn.site/swagger-ui/index.html">https://api.yes-nhn.site/swagger-ui/index.html</a>
 
 👥 팀원
 
