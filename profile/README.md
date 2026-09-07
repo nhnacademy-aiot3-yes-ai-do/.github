@@ -273,7 +273,7 @@ Readme · MD
 <summary><b>⚙️ Data Generator Server</b></summary>
 <br>
 <p align="center">
-  <img width="688" height="336" alt="image" src="https://github.com/user-attachments/assets/a7a95c6a-d88f-490c-8188-fd0040fd3eb8" />
+  <img width="1869" height="768" alt="image" src="https://github.com/user-attachments/assets/5c917ac3-ad54-4bba-a92d-71b84b9c474d" />
 </p>
 </details>
 
