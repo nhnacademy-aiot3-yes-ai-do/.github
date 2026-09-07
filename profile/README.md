@@ -247,16 +247,16 @@ Readme · MD
 <summary><b>🖥️ Front Server</b></summary>
 <br>
 <p align="center">
-  <img src="https://placehold.co/1000x300?text=Front+Server+Coverage" width="100%" alt="Front Server Coverage"/>
+  <img width="1873" height="762" alt="image" src="https://github.com/user-attachments/assets/97d8dcc7-c363-4d2b-9899-25015181df50" />
 </p>
 </details>
 
 
 <details>
-<summary><b>🔐 Auth(User) Server</b></summary>
+<summary><b>🔐 User Server</b></summary>
 <br>
 <p align="center">
-  <img src="https://placehold.co/1000x300?text=Auth+Server+Coverage" width="100%" alt="Auth Server Coverage"/>
+  <img width="1871" height="770" alt="image" src="https://github.com/user-attachments/assets/dea29a44-bdb1-4e89-aefa-315656255d65" />
 </p>
 </details>
 
@@ -265,7 +265,7 @@ Readme · MD
 <summary><b>🍄 Sensor / Cultivation Server</b></summary>
 <br>
 <p align="center">
-  <img src="https://placehold.co/1000x300?text=Cultivation+Server+Coverage" width="100%" alt="Cultivation Server Coverage"/>
+  <img width="1863" height="765" alt="image" src="https://github.com/user-attachments/assets/2fb4192a-1c7c-4a74-9fc7-8c82b278ca26" />
 </p>
 </details>
 
@@ -281,7 +281,7 @@ Readme · MD
 <summary><b>📡 Rule Engine Server</b></summary>
 <br>
 <p align="center">
-  <img src="https://placehold.co/1000x300?text=Rule+Engine+Server+Coverage" width="100%" alt="Rule Engine Server Coverage"/>
+  <img width="1877" height="774" alt="image" src="https://github.com/user-attachments/assets/c1813495-ae1e-4ffe-a85b-033b4276d8b6" />
 </p>
 </details>
 
@@ -290,7 +290,7 @@ Readme · MD
 <summary><b>🤖 AI Server</b></summary>
 <br>
 <p align="center">
-  <img src="https://placehold.co/1000x300?text=AI+Server+Coverage" width="100%" alt="AI Server Coverage"/>
+  <img width="1866" height="772" alt="image" src="https://github.com/user-attachments/assets/c2f9eee1-6ae9-47a2-a7db-18159f07d849" />
 </p>
 </details>
 
@@ -299,7 +299,7 @@ Readme · MD
 <summary><b>🔔 Notification Server</b></summary>
 <br>
 <p align="center">
-  <img src="https://placehold.co/1000x300?text=Notification+Server+Coverage" width="100%" alt="Notification Server Coverage"/>
+  <img width="1871" height="770" alt="image" src="https://github.com/user-attachments/assets/75207926-2ca4-42be-bd7f-cedfe75f36d4" />
 </p>
 </details>
 
