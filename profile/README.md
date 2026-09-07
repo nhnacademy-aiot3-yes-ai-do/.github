@@ -262,16 +262,23 @@ Readme · MD
 
 
 <details>
-<summary><b>🍄 Cultivation Server</b></summary>
+<summary><b>🍄 Sensor / Cultivation Server</b></summary>
 <br>
 <p align="center">
   <img src="https://placehold.co/1000x300?text=Cultivation+Server+Coverage" width="100%" alt="Cultivation Server Coverage"/>
 </p>
 </details>
 
+<details>
+<summary><b>⚙️ Data Generator Server</b></summary>
+<br>
+<p align="center">
+  <img width="688" height="336" alt="image" src="https://github.com/user-attachments/assets/a7a95c6a-d88f-490c-8188-fd0040fd3eb8" />
+</p>
+</details>
 
 <details>
-<summary><b>📡 Sensor / Rule Engine Server</b></summary>
+<summary><b>📡 Rule Engine Server</b></summary>
 <br>
 <p align="center">
   <img src="https://placehold.co/1000x300?text=Rule+Engine+Server+Coverage" width="100%" alt="Rule Engine Server Coverage"/>
