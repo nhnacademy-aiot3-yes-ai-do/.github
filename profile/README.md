@@ -175,6 +175,7 @@ Readme · MD
 * Quality Gate: 커버리지 기준(JaCoCo threshold) 미달 시 배포 중단.
 * Automated Deployment: main 브랜치 반영 시 GHCR(GitHub Container Registry)로 이미지 빌드/푸시 후 Kubernetes 환경에 자동 배포.
 * Rollback: 배포 실패 시뮬레이션 및 롤백 검증 워크플로우 포함.
+
 🧩 ERD 설계
 <p align="center">
   <img width="4575" height="3752" alt="yes-ai-do-4" src="https://github.com/user-attachments/assets/eedd13a0-cca1-40f1-9629-ac045b311de3" />
