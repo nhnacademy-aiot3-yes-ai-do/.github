@@ -4,7 +4,7 @@ Readme · MD
   <img width="396" height="396" alt="image" src="https://github.com/user-attachments/assets/e6ec0b58-cf83-493e-bd6c-f28dac80df9b" />
   <h1>🍄 Yesaido</h1>
   <p><strong>IoT 센서 기반 버섯 재배 환경을 자동 제어하고, AI가 생육 상태를 분석해주는 스마트팜 관리 플랫폼입니다.</strong></p>
-  <p>📅 <b>개발 기간</b> : 2025.07.02 ~ 2025.09.22</p>
+  <p>📅 <b>개발 기간</b> : 2025.07.02 ~ 2025.09.16</p>
 </div>
 📖 도메인
 <a href="https://yes-nhn.site">https://yes-nhn.site</a>
