@@ -103,7 +103,7 @@ Readme · MD
 
 🏗️ System Architecture
 <p align="center">
-  <img width="1280" height="485" alt="image" src="https://github.com/user-attachments/assets/17ae56bb-7dc7-44d4-b423-1a347899c7f7" />
+  <img width="1912" height="816" alt="image" src="https://github.com/user-attachments/assets/6f38cbcc-46ca-4757-ab0b-d2c603c36794" />
 </p>
 
 
